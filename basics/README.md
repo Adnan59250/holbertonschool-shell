@@ -1,0 +1,1 @@
+imprime le nom de chemin absolu du répertoire de travail actuel
