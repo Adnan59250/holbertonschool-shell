@@ -1,2 +1,2 @@
 #!/bin/bash
-echo c | [:lower:] [:upper:]
+sed c C
